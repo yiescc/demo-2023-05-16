@@ -1,0 +1,7 @@
+{
+  "publicPath": "./",
+  "vite": true,
+  "externals": {
+    "react": "React"
+  }
+}
